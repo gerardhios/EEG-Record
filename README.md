@@ -1,7 +1,7 @@
 
 # Grabacion de señales EGG automatizada
 
-Repositorio para almacenar el codigo que permite grabar de forma autmatizada las señales EEG
+Repositorio para almacenar el codigo que permite grabar de forma automatizada las señales EEG
 
 
 # Instalacion
