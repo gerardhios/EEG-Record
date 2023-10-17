@@ -1,4 +1,3 @@
-import winsound
 import time
 import pyautogui
 
@@ -10,7 +9,7 @@ def timer(t: float):
 
 # Tiempo de espera antes de empezar a grabar
 print("Acomoda el mouse en la posición deseada")
-timer(20)
+timer(10)
 
 # Toma la posición del mouse
 x, y = pyautogui.position()
@@ -34,6 +33,14 @@ timer(20)
 # Inicia las pruebas
 print("Inicia las pruebas")
 timer(20)
+
+# Tiempo de espera antes de empezar a grabar
+print("Acomoda el mouse en la posición deseada para parar la grabacion")
+timer(10)
+
+# Toma la posición del mouse
+x, y = pyautogui.position()
+print(f"Posicion grabada {x}, {y}")
 
 # Click en la posición del mouse
 print("Fin de la grabación")
