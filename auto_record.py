@@ -23,7 +23,7 @@ print("Inicia las pruebas en 10 segundos")
 timer(10)
 
 # Inicia las pruebas
-print("Inicia las pruebas")
+print("Inicia las pruebas (Abrir Mano)")
 timer(20)
 
 # Tiempo de descanso entre pruebas
@@ -31,7 +31,7 @@ print("Descansa 20 segundos")
 timer(20)
 
 # Inicia las pruebas
-print("Inicia las pruebas")
+print("Inicia las pruebas (Cerrar Mano)")
 timer(20)
 
 # Tiempo de espera antes de empezar a grabar
