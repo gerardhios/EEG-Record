@@ -35,7 +35,7 @@ print("Inicia las pruebas")
 timer(20)
 
 # Tiempo de espera antes de empezar a grabar
-print("Acomoda el mouse en la posición deseada para parar la grabacion")
+print("Acomoda el mouse en la posición deseada para detener la grabacion")
 timer(10)
 
 # Toma la posición del mouse
